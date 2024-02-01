@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Jeya Surya Shankar B
 ============================================================================================================================================
 
-Embedded C developer , IoT developer and a Machine learning entusiast
+Embedded C developer , IoT developer and a Machine learning enthusiast
 ---------------------------------------------------------------------
 
 I am a passionate Firmware Developer, IoT Developer, and Embedded C Developer with hands-on experience in various
