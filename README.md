@@ -17,7 +17,6 @@ technology. Feel free to explore my projects and connect with me.
 * ✉️  You can contact me at [winjeyasurya@gmail.com](mailto:winjeyasurya@gmail.com)
 * 🧠  I'm learning Embedded c.
 * 🤝  I'm open to collaborating on IoT based projects and firmware development for microcontrollers.
-*
 * ### Skills
 <p align="left">
     <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img
